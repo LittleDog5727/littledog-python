@@ -2,8 +2,8 @@
 requires = ["setuptools","wheel","opencv-contrib-python","numpy","caer"]
 build-backend = "setuptools.build_meta"
 [project]
-name = "Littledog_LittleDog5727"
-version = "0.0.2"
+name = "Littledog"
+version = "0.0.3"
 authors = [
   { name="Little Dog", email="littledog.5727@gmail.com" },
 ]

@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Littledog
+Version: 0.0.3
+Summary: A small package
+Author-email: Little Dog <littledog.5727@gmail.com>
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+The aim of  this module is to collect some important functions and applications in python and make them simple. From now on no more struggling to write hundreds of lines of code. Simple tell us what you want in one line. We've done it for you.
+
+Test Pypi source - https://test.pypi.org/project/Littledog-LittleDog5727/0.0.3/ (Source code & Build)
+Official website - https://www.sites.google.com/view/littledog-python

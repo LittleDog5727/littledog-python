@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/Littledog/__init__.py
+src/Littledog/module.py
+src/Littledog.egg-info/PKG-INFO
+src/Littledog.egg-info/SOURCES.txt
+src/Littledog.egg-info/dependency_links.txt
+src/Littledog.egg-info/top_level.txt
