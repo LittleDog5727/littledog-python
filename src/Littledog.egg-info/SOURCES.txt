@@ -1,9 +1,26 @@
 LICENSE
 README.md
 pyproject.toml
+src/LittleDog/__init__.py
+src/LittleDog/module.py
+src/LittleDog.egg-info/PKG-INFO
+src/LittleDog.egg-info/SOURCES.txt
+src/LittleDog.egg-info/dependency_links.txt
+src/LittleDog.egg-info/top_level.txt
+src/LittleDog/Resources/Photos/1bit1.png
+src/LittleDog/Resources/Photos/2bit2.png
+src/LittleDog/Resources/Photos/apple.jpeg
+src/LittleDog/Resources/Photos/cat.jpg
+src/LittleDog/Resources/Photos/cat_large.jpg
+src/LittleDog/Resources/Photos/cats 2.jpg
+src/LittleDog/Resources/Photos/cats.jpg
+src/LittleDog/Resources/Photos/color.png
+src/LittleDog/Resources/Photos/gfg.png
+src/LittleDog/Resources/Photos/group 1.jpg
+src/LittleDog/Resources/Photos/group 2.jpg
+src/LittleDog/Resources/Photos/lady.jpg
+src/LittleDog/Resources/Photos/park.jpg
+src/LittleDog/Resources/Videos/dog.mp4
+src/LittleDog/Resources/Videos/kitten.mp4
 src/Littledog/__init__.py
 src/Littledog/module.py
-src/Littledog.egg-info/PKG-INFO
-src/Littledog.egg-info/SOURCES.txt
-src/Littledog.egg-info/dependency_links.txt
-src/Littledog.egg-info/top_level.txt

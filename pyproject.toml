@@ -1,9 +1,11 @@
 [build-system]
-requires = ["setuptools","wheel","opencv-contrib-python","numpy","caer"]
+requires = ["setuptools","wheel","opencv-contrib-python","numpy","caer","matplotlib"]
 build-backend = "setuptools.build_meta"
+
 [project]
-name = "Littledog"
-version = "0.0.3"
+name = "LittleDog"
+version = "0.1.0"
+license = {file = 'LICENSE'}
 authors = [
   { name="Little Dog", email="littledog.5727@gmail.com" },
 ]
@@ -12,7 +14,10 @@ readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
 
+[tool.poetry.dependencies]
+python = ">=3.7"
+opencv-contrib-python = "*"
+matplotlib = "*"
